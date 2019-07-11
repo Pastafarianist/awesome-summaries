@@ -1,11 +1,16 @@
-# Dedicated projects
+# awesome-summaries
+
+## Dedicated projects
 
 * [ShortScience.org](https://www.shortscience.org/)
-* [The Morning Paper blog](https://blog.acolyer.org/)
-* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [AcaWiki](https://acawiki.org)
 
-# GitHub repositories
+## Blogs
+
+* [The Morning Paper blog](https://blog.acolyer.org/)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+
+## GitHub repositories
 
 | Repo | Stars | Latest commit | Commit activity |
 | ------------- | ------------- | ------------- | ------------- |
