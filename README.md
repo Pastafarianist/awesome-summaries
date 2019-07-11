@@ -1,7 +1,8 @@
-# Dedicated websites
+# Dedicated projects
 
-* [The Morning Paper blog](https://blog.acolyer.org/)
 * [AcaWiki](https://acawiki.org)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [The Morning Paper blog](https://blog.acolyer.org/)
 
 # GitHub repositories
 
