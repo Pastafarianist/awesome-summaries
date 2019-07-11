@@ -1,8 +1,9 @@
 # Dedicated projects
 
-* [AcaWiki](https://acawiki.org)
-* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [ShortScience.org](https://www.shortscience.org/)
 * [The Morning Paper blog](https://blog.acolyer.org/)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [AcaWiki](https://acawiki.org)
 
 # GitHub repositories
 
