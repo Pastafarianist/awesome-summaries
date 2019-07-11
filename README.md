@@ -7,7 +7,7 @@
 
 ## Blogs
 
-* [The Morning Paper blog](https://blog.acolyer.org/)
+* [The Morning Paper](https://blog.acolyer.org/)
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 
 ## GitHub repositories
